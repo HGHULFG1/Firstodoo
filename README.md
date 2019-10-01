@@ -1,2 +1,2 @@
 # Firstodoo
-this is from sublim
+this is from sublim Sublime merge 
